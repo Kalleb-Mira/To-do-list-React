@@ -6,6 +6,7 @@
 
 > Ferramenta útil para organizar e priorizar suas atividades diárias, semanais ou mensais.
 
+Confira o projeto : https://to-do-list-kam.netlify.app/
 ## 📃 Descrição
 
 O projeto da To-Do List é uma aplicação moderna e interativa para gerenciar suas tarefas diárias. Construída com React e Styled Components, essa aplicação oferece uma interface intuitiva e responsiva, permitindo que você organize suas tarefas de forma rápida e eficiente.
