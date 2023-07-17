@@ -1,7 +1,7 @@
 <h1 align="center">To do List 📝 </h1>
 
 <p align="center">
-  <img src="./src/images/to-gif.gif" alt="GIF do projeto 'to do list' funcionando" width="700">
+  <img src="./src/images/to-gif.gif" alt="GIF do projeto 'to do list' funcionando" width="600">
 </p>
 
 > Ferramenta útil para organizar e priorizar suas atividades diárias, semanais ou mensais.
