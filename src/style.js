@@ -2,7 +2,7 @@ import styled from "styled-components";
 import { FcOk, FcCancel } from "react-icons/fc";
 
 export const Container = styled.div`
-    background-image: url(./src/images/background-list.png);
+    background-image: linear-gradient(to bottom, #0b9873, #ffffff, #0b9873);
     background-size: 100vw 100vh;
     width:  100vw;
     height: 100vh;
